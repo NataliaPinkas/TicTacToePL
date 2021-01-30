@@ -1,0 +1,15 @@
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\bin\Debug\Kółko i krzyżyk2.exe.config
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\bin\Debug\Kółko i krzyżyk2.exe
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\bin\Debug\Kółko i krzyżyk2.pdb
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\obj\Debug\Kółko i krzyżyk2.csprojAssemblyReference.cache
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\obj\Debug\Kółko_i_krzyżyk2.Form1.resources
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\obj\Debug\Kółko_i_krzyżyk2.Properties.Resources.resources
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\obj\Debug\Kółko i krzyżyk2.csproj.GenerateResource.cache
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\obj\Debug\Kółko i krzyżyk2.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\obj\Debug\Kółko i krzyżyk2.exe
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\obj\Debug\Kółko i krzyżyk2.pdb
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\obj\Debug\Kółko_i_krzyżyk2.Form2.resources
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\bin\Debug\Kółko i krzyżyk2.exe.manifest
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\bin\Debug\Kółko i krzyżyk2.application
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\obj\Debug\Kółko i krzyżyk2.exe.manifest
+C:\Users\natal\source\repos\Kółko i krzyżyk2\Kółko i krzyżyk2\obj\Debug\Kółko i krzyżyk2.application
